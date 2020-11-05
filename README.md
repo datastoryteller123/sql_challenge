@@ -1,6 +1,6 @@
 # sql_challenge
 
-file:///C:/Users/jpegr/OneDrive/Desktop/sql_challenge/EmployeeSQL/Tables/table_screenshot.png
+![table_screenshot](https://user-images.githubusercontent.com/68305440/98186159-26f28b00-1edc-11eb-8352-48a2be0430ce.png)
 
 EmployeeSQL consists of the following:
 
