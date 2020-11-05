@@ -1,5 +1,7 @@
 # sql_challenge
 
+file:///C:/Users/jpegr/OneDrive/Desktop/sql_challenge/EmployeeSQL/Tables/table_screenshot.png
+
 EmployeeSQL consists of the following:
 
 Data:
